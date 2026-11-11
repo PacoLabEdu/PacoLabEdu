@@ -26,7 +26,6 @@ Construyo webs, CRMs y soluciones a medida para empresas, con foco en turismo y 
 
 | Proyecto | Qué es | Stack | Demo |
 |---|---|---|---|
-| **CuscoCare** | Producto propio: asistencia médica 24/7 para turistas en Cusco (visitas al hotel, Valle Sagrado, Machu Picchu) con contacto por WhatsApp | Next.js · React · TypeScript | [cuscocare.com](https://cuscocare.com) |
 | **CRM de atención por WhatsApp** | CRM para gestionar conversaciones y clientes de agencias de turismo vía WhatsApp | Node.js · TypeScript · PostgreSQL | Privado (cliente) |
 | **Ayahuasca Retreat Cusco** | Sitio web y manual de identidad de marca para un centro de retiros | JavaScript · HTML/CSS | [ayahuascaretreatcusco.com](https://ayahuascaretreatcusco.com) · [Manual de marca](https://manual-marca-ayahuasca.vercel.app) |
 | **Uyuni Viajes – Reseñas** | Página para que los viajeros dejen reseñas en TripAdvisor y Google | TypeScript | [recomiendame.uyuniviajes.com](https://recomiendame.uyuniviajes.com) |
