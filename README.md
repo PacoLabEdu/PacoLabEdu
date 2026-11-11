@@ -18,17 +18,25 @@ Construyo webs, CRMs y soluciones a medida para empresas, con foco en turismo y 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
 ### 🚀 Proyectos
 
-| Proyecto | Qué es | Stack | Demo |
+| Proyecto | Qué es | Stack | Enlace |
 |---|---|---|---|
-| **CRM de atención por WhatsApp** | CRM para gestionar conversaciones y clientes de agencias de turismo vía WhatsApp | Node.js · TypeScript · PostgreSQL | Privado (cliente) |
-| **Ayahuasca Retreat Cusco** | Sitio web y manual de identidad de marca para un centro de retiros | JavaScript · HTML/CSS | [ayahuascaretreatcusco.com](https://ayahuascaretreatcusco.com) · [Manual de marca](https://manual-marca-ayahuasca.vercel.app) |
-| **Uyuni Viajes – Reseñas** | Página para que los viajeros dejen reseñas en TripAdvisor y Google | TypeScript | [recomiendame.uyuniviajes.com](https://recomiendame.uyuniviajes.com) |
+| **Uyuni Viajes** | Plataforma de reservas de tours en Bolivia (ES/EN): +50 tours, blog, pagos en línea, vouchers PDF con QR, correos automáticos y panel de administración. Incluye página auxiliar de reseñas | Next.js · React · Tailwind · Node.js/Express · TypeScript · Prisma · MySQL · Redis · Docker · Cloudflare · Izipay · PayPal | [uyuniviajes.com](https://uyuniviajes.com) · [Reseñas](https://recomiendame.uyuniviajes.com) |
+| **X Travel Peru** | Sitio de reservas de tours en Perú con carrito, checkout y gestión de reservas; pagos en soles y dólares | React · Vite · React Router · Node.js/Express · Nginx · Izipay · PayPal | [xtravelperu.com](https://www.xtravelperu.com) |
+| **Ayahuasca Retreat Cusco** | Plataforma de reservas bilingüe para un centro de retiros, con manual de identidad de marca | Next.js · Tailwind · Node.js/Express · Prisma · MySQL · Redis · Izipay · PayPal | [ayahuascaretreatcusco.com](https://ayahuascaretreatcusco.com) · [Manual de marca](https://manual-marca-ayahuasca.vercel.app) |
+| **CRM de atención por WhatsApp** | Implementación, despliegue y personalización de un CRM basado en Ticketz (open source): módulos nuevos e integraciones. En uso por 10 agentes | Node.js · TypeScript · PostgreSQL · Socket.IO · Baileys | Privado (cliente) |
 
 > La mayoría de mi código es para clientes y vive en repositorios privados. Con gusto muestro detalles técnicos en una entrevista.
 
